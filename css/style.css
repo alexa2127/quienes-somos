@@ -1,0 +1,23 @@
+.group{
+  display: flex;
+  justify-content: space-around;
+}
+.person{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+  margin: 10px 20px;
+  width: 29%;
+}
+.back{
+  background: url("https://p4.wallpaperbetter.com/wallpaper/735/608/924/bar-liquor-wallpaper-preview.jpg") center/ cover no-repeat;
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 900;
+  color: #ffffff;
+
+}
